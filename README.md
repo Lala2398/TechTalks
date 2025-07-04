@@ -40,6 +40,6 @@ Results of Artificial Intelligence, Machine, and Deep Learning”](https://githu
 | 05.10.2024 | Graph Attention Networks|                                    
 | 24.11.2024 | Attention as an RNN" by Feng L., et al. | 
 | 22.02.2025 | MemGPT : Towards LLMs as Operating Systems |
-| 09.03. 2025 | Neural Priority Queues for Graph Neural Networks(GNNs) |
-| 06. 07. 2025 | The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity|
+| 09.03.2025 | Neural Priority Queues for Graph Neural Networks(GNNs) |
+| 06.07.2025 | The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity|
 
