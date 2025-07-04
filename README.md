@@ -16,3 +16,13 @@ Results of Artificial Intelligence, Machine, and Deep Learning”](https://githu
 • [25.05.2024 - AIOSE Tech Ride 2024: Moderated on the topic of ”What constitutes a successful AI strategy?”](https://www.youtube.com/watch?v=7mALmK5-5Zw)
 
 • [03.03.2024 - Management of IWD2024 and speaker with the opening speech with : ”Impact the Future” - UFAZ](https://github.com/Lala2398/TechTalks/blob/main/IWD%20Baku%202024%20Lala%20new%20version.pptx)
+
+
+
+### ACAR Community - Paper analysis 
+| Date       | Title                                                        | URL  | Host               |
+|------------|--------------------------------------------------------------|------|--------------------|
+| 31.08.2024 | Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization | [ICCV](https://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf) | Paper Club |
+| 05.10.2024 | Graph Attention Networks                                     | [ICLR](https://openreview.net/pdf?id=rJXMpikCZ) | Paper Club |
+
+---
