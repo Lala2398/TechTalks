@@ -4,8 +4,11 @@
 ## Conferences : 
 
 ### Project : Conformational analysis (Ongoing) - PhD Project
+
 • Quality of Protein Models - Falling Walls Lab Competition 2025, 17 June 2025, Baku, Azerbaijan, AzTU, DAAD
+
 • Statistical learning from simulation and observations with application to the protein ligand structures - Wheat Improvement through the Application of Digital and GWAS-Based Technologies Conference - jointly by the Institute of Molecular Biology and Biotechnologies of the Ministry of Science and Education of the Republic of Azerbaijan, the Research Institute of Crop Husbandry under the Ministry of Agriculture of the Republic of Azerbaijan, and the Department of Plant Breeding of the Osnabr¨uck University of Applied Sciences, Federal Republic of Germany, 12-13 June 2025, Baku, Azerbaijan
+
 • Computational and Statistical Approaches to Small Ring Conformational Analysis - CPM’s 2025 Edition Chemistry Process Materials, 03-05 June 2025, Baku, Azerbaijan, International UFAZ Conference
 
 ### AzSLR (Ongoing) 
