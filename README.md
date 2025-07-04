@@ -1,8 +1,18 @@
 # TechTalks
-All list about Technical Talks
 
 
-Talks
+## Conferences : 
+
+### Project : Conformational analysis (Ongoing) - PhD Project
+• Quality of Protein Models - Falling Walls Lab Competition 2025, 17 June 2025, Baku, Azerbaijan, AzTU, DAAD
+• Statistical learning from simulation and observations with application to the protein ligand structures - Wheat Improvement through the Application of Digital and GWAS-Based Technologies Conference - jointly by the Institute of Molecular Biology and Biotechnologies of the Ministry of Science and Education of the Republic of Azerbaijan, the Research Institute of Crop Husbandry under the Ministry of Agriculture of the Republic of Azerbaijan, and the Department of Plant Breeding of the Osnabr¨uck University of Applied Sciences, Federal Republic of Germany, 12-13 June 2025, Baku, Azerbaijan
+• Computational and Statistical Approaches to Small Ring Conformational Analysis - CPM’s 2025 Edition Chemistry Process Materials, 03-05 June 2025, Baku, Azerbaijan, International UFAZ Conference
+
+### AzSLR (Ongoing) 
+• Young Researchers Conference on AIBig Data, hosted by ADA University, sponsored by Neurotime - ”Resolving Interclass Similarities in Sign Language Using Adaptive Loss Functions” - member of project
+
+
+## Talks : 
 
 • [19.04.2025 - Management of IWD2025 and speaker with the opening speech with : ”Redefine Possible” - AzTU](https://github.com/Lala2398/TechTalks/blob/main/Slide_IWD2025_final.pptx)
 
@@ -19,10 +29,14 @@ Results of Artificial Intelligence, Machine, and Deep Learning”](https://githu
 
 
 
-### ACAR Community - Paper analysis 
-| Date       | Title                                                        | URL  | Host               |
-|------------|--------------------------------------------------------------|------|--------------------|
-| 31.08.2024 | Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization | [ICCV](https://openaccess.thecvf.com/content_ICCV_2017/papers/Selvaraju_Grad-CAM_Visual_Explanations_ICCV_2017_paper.pdf) | Paper Club |
-| 05.10.2024 | Graph Attention Networks                                     | [ICLR](https://openreview.net/pdf?id=rJXMpikCZ) | Paper Club |
+## ACAR Community - Paper analysis 
 
----
+| Date       | Title                                                        |
+|------------|--------------------------------------------------------------|
+| 31.08.2024 | Grad-CAM: Visual Explanations from Deep Networks via Gradient-Based Localization |
+| 05.10.2024 | Graph Attention Networks|                                    
+| 24.11.2024 | Attention as an RNN" by Feng L., et al. | 
+| 22.02.2025 | MemGPT : Towards LLMs as Operating Systems |
+| 09.03. 2025 | Neural Priority Queues for Graph Neural Networks(GNNs) |
+| 06. 07. 2025 | The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity|
+
