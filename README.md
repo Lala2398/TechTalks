@@ -32,7 +32,7 @@ Results of Artificial Intelligence, Machine, and Deep Learning”](https://githu
 
 
 
-## ACAR Community - Paper analysis 
+## ACAR Community - Paper analysis - Azerbaijan Community for Advanced Research (ACAR)
 
 | Date       | Title                                                        |
 |------------|--------------------------------------------------------------|
