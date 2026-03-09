@@ -5,6 +5,8 @@
 
 ### Project : Conformational analysis (Ongoing) - PhD Project
 
+• Enhancing Conformational Priors for Small Rings in Structural Biology through Computational Energy Analysis (4th Bilateral Workshop on Science between DEU and ANAS December 23, 2025)
+
 • Quality of Protein Models - Falling Walls Lab Competition 2025, 17 June 2025, Baku, Azerbaijan, AzTU, DAAD
 
 • Statistical learning from simulation and observations with application to the protein ligand structures - Wheat Improvement through the Application of Digital and GWAS-Based Technologies Conference - jointly by the Institute of Molecular Biology and Biotechnologies of the Ministry of Science and Education of the Republic of Azerbaijan, the Research Institute of Crop Husbandry under the Ministry of Agriculture of the Republic of Azerbaijan, and the Department of Plant Breeding of the Osnabr¨uck University of Applied Sciences, Federal Republic of Germany, 12-13 June 2025, Baku, Azerbaijan
@@ -16,6 +18,12 @@
 
 
 ## Talks : 
+
+• 07.03.2025 - PDB to Ligand Insights - Azerbaijan Science and Innovation Volunteer Program
+
+
+• 28.12.2025 - TechBrains Baku 2026 - "Computational Energy Analysis"
+
 
 • [19.04.2025 - Management of IWD2025 and speaker with the opening speech with : ”Redefine Possible” - AzTU](https://github.com/Lala2398/TechTalks/blob/main/Slide_IWD2025_final.pptx)
 
