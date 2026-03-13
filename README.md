@@ -19,6 +19,9 @@
 
 ## Talks : 
 
+• 14.03.2025 - Management of IWD2026 and speaker with the opening speech with : ”Break the Pattern : Rewrite your Story” - AIM
+
+
 • 07.03.2025 - PDB to Ligand Insights - Azerbaijan Science and Innovation Volunteer Program
 
 
