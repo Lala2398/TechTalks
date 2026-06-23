@@ -22,7 +22,7 @@
 
 ## Talks : 
 
-• [22.06.2026 - AI/Science Forum 2026 - The hidden geometry of molecules : how statistics unlocks the language of structures - Azerbaijan Science and Innovation Volunteer Program & Khazar University]() 
+• [22.06.2026 - AI/Science Forum 2026 - The hidden geometry of molecules : how statistics unlocks the language of structures - Azerbaijan Science and Innovation Volunteer Program & Khazar University](https://github.com/Lala2398/TechTalks/tree/main/AI_Science_Forum_2026) 
 
 • [25/26.04.2026 - Prompt Engineering and Image Generation Lectures : Baku State University - "Digital Art" Program]()
 
