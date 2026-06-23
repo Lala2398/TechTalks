@@ -11,24 +11,27 @@
 
 • Statistical learning from simulation and observations with application to the protein ligand structures - Wheat Improvement through the Application of Digital and GWAS-Based Technologies Conference - jointly by the Institute of Molecular Biology and Biotechnologies of the Ministry of Science and Education of the Republic of Azerbaijan, the Research Institute of Crop Husbandry under the Ministry of Agriculture of the Republic of Azerbaijan, and the Department of Plant Breeding of the Osnabr¨uck University of Applied Sciences, Federal Republic of Germany, 12-13 June 2025, Baku, Azerbaijan
 
-• Computational and Statistical Approaches to Small Ring Conformational Analysis - CPM’s 2025 Edition Chemistry Process Materials, 03-05 June 2025, Baku, Azerbaijan, International UFAZ Conference
+• [Computational and Statistical Approaches to Small Ring Conformational Analysis - CPM’s 2025 Edition Chemistry Process Materials, 03-05 June 2025, Baku, Azerbaijan, International UFAZ Conference](https://ufaz-assets.ams3.cdn.digitaloceanspaces.com/public/documents/book_of_posters.pdf?utm_medium=QR)
 
 ### AzSLR (Ongoing) 
+
+• [Artificial Intelligence for Digital Transformations (AIDT 2026) 22–24 June 2026 Baku / Azerbaijan - Paper 178: A Community-Driven Dataset and Protocol for Azerbaijani Sign Language Recognition: Advancing Digital Inclusion through Human-Centered AI - Nigar Alishzade, Lala Ibadullayeva, Rajab Iskandarli, Jabrayil Babayev and Humbat Jamalov]( https://aidt-26.ufaz.az/programme/)
+
 • Young Researchers Conference on AIBig Data, hosted by ADA University, sponsored by Neurotime - ”Resolving Interclass Similarities in Sign Language Using Adaptive Loss Functions” - member of project
 
 
 ## Talks : 
 
-• 25/26.04.2026 - Prompt Engineering and Image Generation Lectures : Baku State University - "Digital Art" Program
+• [22.06.2026 - AI/Science Forum 2026 - The hidden geometry of molecules : how statistics unlocks the language of structures - Azerbaijan Science and Innovation Volunteer Program & Khazar University]() 
+
+• [25/26.04.2026 - Prompt Engineering and Image Generation Lectures : Baku State University - "Digital Art" Program]()
 
 • 14.03.2026 - Management of IWD2026 and speaker with the opening speech with : ”Break the Pattern : Rewrite your Story” - AIM
 
-
-• 07.03.2026 - PDB to Ligand Insights - Azerbaijan Science and Innovation Volunteer Program
+• [07.03.2026 - PDB to Ligand Insights - Azerbaijan Science and Innovation Volunteer Program]
 
 
 • 28.12.2025 - TechBrains Baku 2026 - "Computational Energy Analysis"
-
 
 • [19.04.2025 - Management of IWD2025 and speaker with the opening speech with : ”Redefine Possible” - AzTU](https://github.com/Lala2398/TechTalks/blob/main/Slide_IWD2025_final.pptx)
 
