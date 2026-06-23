@@ -24,7 +24,7 @@
 
 • [22.06.2026 - AI/Science Forum 2026 - The hidden geometry of molecules : how statistics unlocks the language of structures - Azerbaijan Science and Innovation Volunteer Program & Khazar University](https://github.com/Lala2398/TechTalks/tree/main/AI_Science_Forum_2026) 
 
-• [25/26.04.2026 - Prompt Engineering and Image Generation Lectures : Baku State University - "Digital Art" Program]()
+• [25/26.04.2026 - Prompt Engineering and Image Generation Lectures : Baku State University - "Digital Art" Program](https://drive.google.com/drive/folders/1CyZWUEwWoFMHIu0s1YvHNW523joN8HvR?usp=sharing)
 
 • 14.03.2026 - Management of IWD2026 and speaker with the opening speech with : ”Break the Pattern : Rewrite your Story” - AIM
 
