@@ -26,9 +26,9 @@
 
 • [25/26.04.2026 - Prompt Engineering and Image Generation Lectures : Baku State University - "Digital Art" Program](https://drive.google.com/drive/folders/1CyZWUEwWoFMHIu0s1YvHNW523joN8HvR?usp=sharing)
 
-• 14.03.2026 - Management of IWD2026 and speaker with the opening speech with : ”Break the Pattern : Rewrite your Story” - AIM
+• [14.03.2026 - Management of IWD2026 and speaker with the opening speech with : ”Break the Pattern : Rewrite your Story” - AIM](https://github.com/Lala2398/TechTalks/blob/main/Lala_Ibadullayeva_IWD26.pptx)
 
-• [07.03.2026 - PDB to Ligand Insights - Azerbaijan Science and Innovation Volunteer Program]
+• [07.03.2026 - PDB to Ligand Insights - Azerbaijan Science and Innovation Volunteer Program](https://github.com/Lala2398/Protein_Ligand_Analysis) + slide
 
 
 • 28.12.2025 - TechBrains Baku 2026 - "Computational Energy Analysis"
