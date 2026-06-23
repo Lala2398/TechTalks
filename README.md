@@ -15,7 +15,7 @@
 
 ### AzSLR (Ongoing) 
 
-• [Artificial Intelligence for Digital Transformations (AIDT 2026) 22–24 June 2026 Baku / Azerbaijan - Paper 178: A Community-Driven Dataset and Protocol for Azerbaijani Sign Language Recognition: Advancing Digital Inclusion through Human-Centered AI - Nigar Alishzade, Lala Ibadullayeva, Rajab Iskandarli, Jabrayil Babayev and Humbat Jamalov]( https://aidt-26.ufaz.az/programme/)
+• [Artificial Intelligence for Digital Transformations (AIDT 2026) 22–24 June 2026 Baku / Azerbaijan - Paper 178: A Community-Driven Dataset and Protocol for Azerbaijani Sign Language Recognition: Advancing Digital Inclusion through Human-Centered AI - Nigar Alishzade, Lala Ibadullayeva, Rajab Iskandarli, Jabrayil Babayev and Humbat Jamalov](https://aidt-26.ufaz.az/programme/)
 
 • Young Researchers Conference on AIBig Data, hosted by ADA University, sponsored by Neurotime - ”Resolving Interclass Similarities in Sign Language Using Adaptive Loss Functions” - member of project
 
