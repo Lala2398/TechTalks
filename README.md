@@ -22,6 +22,8 @@
 
 ## Talks : 
 
+• [25.06.2026 - AI & Data Seminar - Up-to-date knowledge in Artificial Intelligence and Data Science](https://github.com/Lala2398/TechTalks/blob/main/AI_Cloud_Data_AzTU.pptx)
+
 • [22.06.2026 - AI/Science Forum 2026 - The hidden geometry of molecules : how statistics unlocks the language of structures - Azerbaijan Science and Innovation Volunteer Program & Khazar University](https://github.com/Lala2398/TechTalks/tree/main/AI_Science_Forum_2026) 
 
 • [25/26.04.2026 - Prompt Engineering and Image Generation Lectures : Baku State University - "Digital Art" Program](https://drive.google.com/drive/folders/1CyZWUEwWoFMHIu0s1YvHNW523joN8HvR?usp=sharing)
