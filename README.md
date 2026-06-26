@@ -13,7 +13,7 @@
 
 • [Computational and Statistical Approaches to Small Ring Conformational Analysis - CPM’s 2025 Edition Chemistry Process Materials, 03-05 June 2025, Baku, Azerbaijan, International UFAZ Conference](https://ufaz-assets.ams3.cdn.digitaloceanspaces.com/public/documents/book_of_posters.pdf?utm_medium=QR)
 
-### AzSLR (Ongoing) 
+### Project : AzSLR (Ongoing) 
 
 • [Artificial Intelligence for Digital Transformations (AIDT 2026) 22–24 June 2026 Baku / Azerbaijan - Paper 178: A Community-Driven Dataset and Protocol for Azerbaijani Sign Language Recognition: Advancing Digital Inclusion through Human-Centered AI - Nigar Alishzade, Lala Ibadullayeva, Rajab Iskandarli, Jabrayil Babayev and Humbat Jamalov](https://aidt-26.ufaz.az/programme/) + [article](https://link.springer.com/book/9783032313188)
 
