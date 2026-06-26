@@ -5,7 +5,7 @@
 
 ### Project : Conformational analysis (Ongoing) - PhD Project
 
-• Enhancing Conformational Priors for Small Rings in Structural Biology through Computational Energy Analysis (4th Bilateral Workshop on Science between DEU and ANAS December 23, 2025)
+• [Enhancing Conformational Priors for Small Rings in Structural Biology through Computational Energy Analysis (4th Bilateral Workshop on Science between DEU and ANAS December 23, 2025)](https://github.com/Lala2398/TechTalks/tree/main/9%20eylul_23dec)
 
 • Quality of Protein Models - Falling Walls Lab Competition 2025, 17 June 2025, Baku, Azerbaijan, AzTU, DAAD
 
