@@ -33,7 +33,7 @@
 • [07.03.2026 - PDB to Ligand Insights - Azerbaijan Science and Innovation Volunteer Program](https://github.com/Lala2398/Protein_Ligand_Analysis) + slide
 
 
-• 28.12.2025 - TechBrains Baku 2026 - "Computational Energy Analysis"
+• [28.12.2025 - TechBrains Baku 2026 - "Computational Energy Analysis"](https://github.com/Lala2398/TechTalks/blob/main/Techbrains_2025.pptx)
 
 • [19.04.2025 - Management of IWD2025 and speaker with the opening speech with : ”Redefine Possible” - AzTU](https://github.com/Lala2398/TechTalks/blob/main/Slide_IWD2025_final.pptx)
 
