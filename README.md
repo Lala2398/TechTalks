@@ -61,3 +61,18 @@ Results of Artificial Intelligence, Machine, and Deep Learning”](https://githu
 | 09.03.2025 | Neural Priority Queues for Graph Neural Networks(GNNs) |
 | 06.07.2025 | The Illusion of Thinking: Understanding the Strengths and Limitations of Reasoning Models via the Lens of Problem Complexity|
 
+
+
+## Certifications from Coursera : 
+
+- [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/AG7VZ6TAMI42)
+- [AI for Medicine](https://www.coursera.org/account/accomplishments/specialization/certificate/KCW3FSFSK8GB)
+- [Algorithms](https://www.coursera.org/account/accomplishments/specialization/certificate/WQHWET5LTVZT)
+- [MLOps | Machine Learning Operations](https://www.coursera.org/account/accomplishments/specialization/certificate/SBHB2TC5WEZM)
+- [Mathematics for Machine Learning and Data Science](https://www.coursera.org/account/accomplishments/specialization/certificate/KHC98KE7Q7U2)
+- [Google IT Automation with Python](https://www.coursera.org/account/accomplishments/specialization/certificate/A07R5O2C6CA5)
+- [Mathematics for Machine Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/VDNEWELGSH4K)
+- [Meta Back-End Developer](https://www.coursera.org/account/accomplishments/specialization/certificate/YR3MYLG2VE6R)
+- [PyTorch for Deep Learning](https://www.coursera.org/account/accomplishments/specialization/certificate/D3JPSEB6GS8Q)
+- [Large Language Model Operations (LLMOps)](https://www.coursera.org/account/accomplishments/specialization/certificate/WHRCF9YQIT5H)
+- [IBM Product Owner](https://www.coursera.org/account/accomplishments/specialization/certificate/M5HRA141JKO5)
