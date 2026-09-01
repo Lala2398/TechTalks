@@ -1,5 +1,6 @@
-# TechTalks
+# Research & Tech Compendium
 
+Welcome to my personal compendium of research activities, technical talks, paper analyses, and professional certifications.
 
 ## Conferences : 
 
